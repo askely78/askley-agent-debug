@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 __pycache__/
 .env
+=======
+.env
+__pycache__/
+>>>>>>> 629d0183c6c852b71ba1f9192f4ef4cd414fa5ad
